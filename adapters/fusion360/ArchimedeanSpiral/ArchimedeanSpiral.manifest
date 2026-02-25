@@ -1,0 +1,12 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "addin",
+  "id": "a3b7c2d1-e4f5-4891-bcde-f01234567890",
+  "author": "Withney Guilherme",
+  "description": {
+    "": "Archimedean spiral generator — vinyl record groove pattern"
+  },
+  "version": "1.0",
+  "runOnStartup": false,
+  "supportedOS": "windows|mac"
+}
