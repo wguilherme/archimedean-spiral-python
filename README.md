@@ -2,6 +2,8 @@
 
 Gerador de espiral de Arquimedes em Python, com visualização, exportação DXF e add-in para Fusion 360.
 
+> **Nota:** Os pontos gerados satisfazem a definição matemática exata da espiral de Arquimedes. A curva resultante é uma aproximação — segmentos de reta no DXF, ou B-spline interpolada no Fusion 360. O erro é controlado por `points_per_turn` e é inferior a qualquer tolerância de impressão 3D com 36+ pontos/volta.
+
 ## Estrutura
 
 ```
